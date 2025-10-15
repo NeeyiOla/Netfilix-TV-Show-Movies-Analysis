@@ -1,6 +1,6 @@
 # Netflix TV Show/Movies Analysis
 
-![Cover Front Page]( )
+![Cover Front Page](Asset/Image_Folder/Netflix_Image_Cover.png)
 
 # Table of Content 
 - [Project Title](#project-title)
