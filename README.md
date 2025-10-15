@@ -35,7 +35,7 @@ To understand Netflix’s content distribution, audience targeting, and genre st
 [![Netflix Dashboard](https://public.tableau.com/static/images/Ne/NetflixAnalytic/NetflixDashboard/1.png)](https://public.tableau.com/views/NetflixAnalytic/NetflixDashboard)
 
 
-## Content Distribution (Movies vs. TV Shows)
+## 1. Content Distribution (Movies vs. TV Shows)
 
 Movies: 4,265  
 TV Shows: 1,969  
@@ -50,7 +50,7 @@ Balance the portfolio by expanding TV Shows in trending genres (crime thrillers,
 Invest in regional TV shows to boost international retention.
 
 
-## Rating Distribution
+## 2. Rating Distribution
 
 TV-MA dominattes, followed by TV-14.
 
