@@ -14,7 +14,7 @@
   - [Release Trends Over Time](#release-trends-over-time)
   - [Director & Duration (Movies)](#director-&-duration-(Movies))
  
-- [✅ Final Business Recommendations](#✅-final-business-recommedation)
+- [✅ Final Business Recommendations](#final-business-recommedations)
 
 # Project Title
 Netflix TV Show/Movies Analysis
