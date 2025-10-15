@@ -1,5 +1,7 @@
 # Netflix TV Show/Movies Analysis
 
+![Cover Front Page]( )
+
 # Table of Content 
 - [Project Title](#project-title)
 - [My Role](#my-role)
