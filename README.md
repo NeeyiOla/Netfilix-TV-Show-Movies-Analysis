@@ -78,7 +78,7 @@ TV-MA dominattes, followed by TV-14.
 
 ## 4. Geographical Spread
 
-Broad coverage across North America and Europe; growing in India, South Korea, and Latin America.
+Broad coverage across North America and Europe; growing in India, South Korea, and Latin America.  
 Africa and parts of Asia-Pacific remain under-represented.
 
 **Insights**  
@@ -104,7 +104,7 @@ Aggressive expansion until 2019; post-2019 dip challenges momentum.
 
 ## 6. Director & Duration (Movies)
 
-Example: 3 Idiots (Rajkumar Hirani, 164 mins).
+**Example**: 3 Idiots (Rajkumar Hirani, 164 mins).  
 Many movies are long features; TV Shows offer shorter, seasonal content.
 
 **Insights**  
@@ -116,9 +116,9 @@ Long runtimes may reduce rewatchability; series formats align with binge behavio
 
 # ✅ Final Business Recommendations
 
-Content Balance: Increase TV Show share—especially international and family/teen content.
-Audience Expansion: Balance adult-heavy titles with family-friendly programming.
-Genre Strategy: Double down on Documentaries, Comedy, International Dramas; expand Animated & Teen genres.
-Global Growth: Invest in Africa, Middle East, and SE Asia with localised content.
-Post-2019 Growth: Use low-budget productions & regional partnerships to rebuild momentum.
-Format Optimisation: Offer more short-duration movies and mini-series.
+- **Content Balance**: Increase TV Show share—especially international and family/teen content.
+- **Audience Expansion**: Balance adult-heavy titles with family-friendly programming.
+- **Genre Strategy**: Double down on Documentaries, Comedy, International Dramas; expand Animated & Teen genres.
+- **Global Growth**: Invest in Africa, Middle East, and SE Asia with localised content.
+- **Post-2019 Growth**: Use low-budget productions & regional partnerships to rebuild momentum.
+- **Format Optimisation**: Offer more short-duration movies and mini-series.
