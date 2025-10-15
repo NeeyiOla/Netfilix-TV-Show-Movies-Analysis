@@ -27,6 +27,11 @@ To understand Netflix’s content distribution, audience targeting, and genre st
 
 # Detailed Insight and Recommendation
 
+## 🎬 Netflix Dashboard
+
+[![Netflix Dashboard](https://public.tableau.com/static/images/Ne/NetflixAnalytic/NetflixDashboard/1.png)](https://public.tableau.com/views/NetflixAnalytic/NetflixDashboard)
+
+
 ## Content Distribution (Movies vs. TV Shows)
 
 Movies: 4,265
