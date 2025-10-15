@@ -21,6 +21,7 @@ Netflix TV Show/Movies Analysis
 
 # My Role
 Tableau Developer/Insight Analyst
+- This is a quick and basic project to demostrate my skill in using BI
 
 # Problem statement
 To understand Netflix’s content distribution, audience targeting, and genre strengths across Movies and TV Shows, enabling data-driven recommendations for future acquisitions, productions, and global strategy
@@ -34,8 +35,8 @@ To understand Netflix’s content distribution, audience targeting, and genre st
 
 ## Content Distribution (Movies vs. TV Shows)
 
-Movies: 4,265
-TV Shows: 1,969
+Movies: 4,265  
+TV Shows: 1,969  
 Movies ≈ 68% of the catalogue; TV Shows ≈ 32%.  
 
 **Insights**  
@@ -52,12 +53,12 @@ Invest in regional TV shows to boost international retention.
 TV-MA dominattes, followed by TV-14.
 
 **Insights**  
-Catalogue caters heavily to adult audiences.
-Aligns with demand for mature storytelling but limits family engagement versus competitors.
+- Catalogue caters heavily to adult audiences.
+- Aligns with demand for mature storytelling but limits family engagement versus competitors.
 
 **Recommnedations**  
-Expand children/family programming (animated series, kids’ movies).
-Strengthen Kids & Teens profiles to broaden household adoption.
+- Expand children/family programming (animated series, kids’ movies).
+- Strengthen Kids & Teens profiles to broaden household adoption.
 
 ## 3. Top 10 Genres
 
@@ -65,13 +66,13 @@ Strengthen Kids & Teens profiles to broaden household adoption.
 **TV Shows**: Kids’ TV leads strongly.
 
 **Insights**  
-Documentaries and Comedy are clear strengths for Movies.
-Kids’ TV dominates TV Shows; International Drama signals global diversification.
+- Documentaries and Comedy are clear strengths for Movies.
+- Kids’ TV dominates TV Shows; International Drama signals global diversification.
 
 **Recommendations**  
-Double down on Comedy & Documentaries (cost-effective and engaging).
-Double down on Comedy & Documentaries (cost-effective and engaging).
-Explore regional comedy specials to attract global subscribers.
+- Double down on Comedy & Documentaries (cost-effective and engaging).
+- Double down on Comedy & Documentaries (cost-effective and engaging).
+- Explore regional comedy specials to attract global subscribers.
 
 ## 4. Geographical Spread
 
@@ -82,8 +83,8 @@ Africa and parts of Asia-Pacific remain under-represented.
 untapped opportunities in Africa and APAC regions
 
 **Recommendations**  
-Localise with regional originals in Africa, the Middle East, and Southeast Asia.
-Partner with local film industries (e.g., Nollywood, Bollywood, Korean drama houses).
+- Localise with regional originals in Africa, the Middle East, and Southeast Asia.
+- Partner with local film industries (e.g., Nollywood, Bollywood, Korean drama houses).
 
 ## 5. Release Trends Over Time
 
@@ -94,9 +95,9 @@ Dip after 2019 (likely COVID-19 production slowdowns).
 Aggressive expansion until 2019; post-2019 dip challenges momentum.
 
 **Recommendations**  
-Reinvest in post-COVID production recovery.
-Use mini-series and low-budget indie films to quickly rebuild catalogue.
-Apply trend analysis to target fastest-growing genres each year.
+- Reinvest in post-COVID production recovery.
+- Use mini-series and low-budget indie films to quickly rebuild catalogue.
+- Apply trend analysis to target fastest-growing genres each year.
 
 
 ## 6. Director & Duration (Movies)
@@ -108,8 +109,8 @@ Many movies are long features; TV Shows offer shorter, seasonal content.
 Long runtimes may reduce rewatchability; series formats align with binge behaviour.
 
 **Recommendations**  
-Produce more short-duration films (90–110 mins).
-Expand 3–6 episode mini-series for stickiness.
+- Produce more short-duration films (90–110 mins).
+- Expand 3–6 episode mini-series for stickiness.
 
 # ✅ Final Business Recommendations
 
