@@ -21,7 +21,9 @@ Netflix TV Show/Movies Analysis
 
 # My Role
 Tableau Developer/Insight Analyst
-- This is a quick and basic project to demostrate my skill in using BI
+- Led a self project of using kaggle dataset to create a basic and insightful that support strategic decision making
+- Independently use BI tools to Prepare, analyse, model, manage, and visualise netflix dataset.
+- Create GitHub respository for documentation and update on html file.
 
 # Problem statement
 To understand Netflix’s content distribution, audience targeting, and genre strengths across Movies and TV Shows, enabling data-driven recommendations for future acquisitions, productions, and global strategy
